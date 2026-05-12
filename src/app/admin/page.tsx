@@ -41,7 +41,7 @@ export default function AdminPage() {
             <Row label="Display name" value="48 North" />
             <Row
               label="Auth0 connection"
-              value="bluemodern.us.auth0.com"
+              value="dev-4prs757badfajpi5.us.auth0.com"
               mono
             />
             <Row label="BigQuery dataset" value="togari_sourcing" mono />
